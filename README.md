@@ -16,7 +16,7 @@ On Plasma 5 the tool names differ (`qdbus`, `kwriteconfig5`), so this will not w
 ## Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/kde-nightlight-toggle.git
+git clone https://github.com/nitrokryptic/kde-nightlight-toggle.git
 cd kde-nightlight-toggle
 bash install.sh
 ```
