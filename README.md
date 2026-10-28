@@ -105,3 +105,7 @@ bash install.sh --uninstall
 ## License
 
 MIT
+
+## Notes
+
+This project was developed using AI-assisted coding (“vibe coding”). It has been tested and is currently working as intended, though bugs or unexpected behaviour may still occur.
